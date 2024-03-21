@@ -1,0 +1,49 @@
+.weather-app-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color:blue
+  }
+  
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  .input-container input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .input-container button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .weather-box {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  .weather-details {
+    margin-top: 20px;
+  }
+  
+  .loading-message {
+    font-style: italic;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
