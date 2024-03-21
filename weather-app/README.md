@@ -13,6 +13,8 @@ The application demonstrates the use of React functional components, hooks (useS
 
 # How to Run the Application:
 
+To install all dependencies required for the application, simply run the command "npm install" in the terminal within the weather-app directory. This will automatically install all necessary packages, including Axios, listed in the package.json file.
+
 To launch the application, navigate to the weather-app directory and execute the command "npm start". This will initiate the application, which can then be accessed via localhost:3000 in your web browser to verify its functionality
 
 # Dependencies:
